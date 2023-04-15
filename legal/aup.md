@@ -1,4 +1,5 @@
 # Acceptable Use Policy
+{: .text-3xl .font-bold }
 
 Updated April 15, 2023
 
