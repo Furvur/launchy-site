@@ -1,12 +1,10 @@
 # Acceptable Use Policy
-{: .text-3xl .font-bold .text-slate-300 }
 
 Updated April 15, 2023
 
 This Acceptable Use Policy (the "Policy") sets forth the terms and conditions that govern the use of the API services provided by Launchy (the "Service"). By using the Service, you agree to be bound by the terms and conditions of this Policy.
 
 ## Prohibited Use
-{: .text-xl .font-bold .text-slate-300 }
 
 You may not use the Service for any illegal, harmful, or offensive purpose. Specifically, you may not use the Service to:
 
@@ -17,21 +15,17 @@ You may not use the Service for any illegal, harmful, or offensive purpose. Spec
 * Engage in any activity to reverse engineer any part of the Service's business and services.
 
 ## Compliance with Laws
-{: .text-xl .font-bold .text-slate-300 }
 
 You are responsible for complying with all applicable laws and regulations in connection with your use of the Service.
 
 ## Suspension and Termination
-{: .text-xl .font-bold .text-slate-300 }
 
 We may suspend or terminate your access to the Service at any time, with or without cause, and with or without notice. If we determine that you have violated this Policy, we may take any action we deem appropriate, including without limitation, suspension or termination of your access to the Service.
 
 ## Changes to the Policy
-{: .text-xl .font-bold .text-slate-300 }
 
 We may change this Policy from time to time, and will post any changes on our website. Your continued use of the Service after any such changes are posted constitutes your acceptance of the new Policy.
 
 ## Contact Us
-{: .text-xl .font-bold .text-slate-300 }
 
 If you have any questions about this Policy or the Service, please contact us at help@launchy.dev.
