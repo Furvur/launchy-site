@@ -28,4 +28,4 @@ We may change this Policy from time to time, and will post any changes on our we
 
 ## Contact Us
 
-If you have any questions about this Policy or the Service, please contact us at help@launchy.dev.
+If you have any questions about this Policy or the Service, please contact us at <help@launchy.dev>.
