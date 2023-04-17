@@ -116,7 +116,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 Google Analytics
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en){rel="nofollow"}
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en){:target="_blank" rel="nofollow"}
 
 We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
 
