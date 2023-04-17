@@ -6,13 +6,13 @@ Last updated: 04/17/2023
 
 Welcome to FURVUR INC (“Company”, “we”, “our”, “us”).
 
-These Terms of Service (“Terms”, “Terms of Service”) govern your use of our web pages located at https://launchy.dev and our mobile application Launchy (together or individually “Service”) operated by FURVUR INC.
+These Terms of Service (“Terms”, “Terms of Service”) govern your use of our web pages located at <https://launchy.dev> and our mobile application Launchy (together or individually “Service”) operated by FURVUR INC.
 
-Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here https://launchy.dev/privacy.
+Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here <https://launchy.dev/privacy>.
 
 Your agreement with us includes these Terms and our Privacy Policy (“Agreements”). You acknowledge that you have read and understood Agreements, and agree to be bound of them.
 
-If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at help@launchy.dev so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
+If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at <help@launchy.dev> so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
 
 ## Communications
 
@@ -116,7 +116,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 Google Analytics
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en){rel="nofollow"}
 
 We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
 
@@ -144,7 +144,7 @@ Service and its original content (excluding Content provided by users), features
 ## Copyright Policy
 We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on Service infringes on the copyright or other intellectual property rights (“Infringement”) of any person or entity.
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to help@launchy.dev, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims”
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to <help@launchy.dev>, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims”
 
 You may be held accountable for damages (including costs and attorneys' fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
 
@@ -158,11 +158,11 @@ You may submit a notification pursuant to the Digital Millennium Copyright Act (
 * a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 * a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You can contact our Copyright Agent via email at help@launchy.dev
+You can contact our Copyright Agent via email at <help@launchy.dev>
 
 ## Error Reporting and Feedback
 
-You may provide us either directly at help@launchy.dev or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us either directly at <help@launchy.dev> or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 The third party sites and tools mentioned above include the following:
 
@@ -231,4 +231,4 @@ BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE
 ## Contact Us
 
 Please send your feedback, comments, requests for technical support:
-By email: help@launchy.dev.
+By email: <help@launchy.dev>.
