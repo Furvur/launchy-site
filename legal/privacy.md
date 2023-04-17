@@ -84,32 +84,19 @@ While using our Service, we may also collect the following information: sex, age
 ## Use of Data
 
 FURVUR INC uses the collected data for various purposes:
-
-to provide and maintain our Service;
-
-to notify you about changes to our Service;
-
-to allow you to participate in interactive features of our Service when you choose to do so;
-
-to provide customer support;
-
-to gather analysis or valuable information so that we can improve our Service;
-
-to monitor the usage of our Service;
-
-to detect, prevent and address technical issues;
-
-to fulfill any other purpose for which you provide it;
-
-to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-
-to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
-
-to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
-
-in any other way we may describe when you provide the information;
-
-for any other purpose with your consent.
+* to provide and maintain our Service;
+* to notify you about changes to our Service;
+* to allow you to participate in interactive features of our Service when you choose to do so;
+* to provide customer support;
+* to gather analysis or valuable information so that we can improve our Service;
+* to monitor the usage of our Service;
+* to detect, prevent and address technical issues;
+* to fulfill any other purpose for which you provide it;
+* to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+* to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
+* to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
+* in any other way we may describe when you provide the information;
+* for any other purpose with your consent.
 
 ## Retention of Data
 
@@ -121,7 +108,7 @@ We will also retain Usage Data for internal analysis purposes. Usage Data is gen
 
 Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+If you are located outside Canada and choose to provide information to us, please note that we transfer the data, including Personal Data, to Canada and process it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
@@ -138,20 +125,13 @@ Business Transaction.
 If we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be transferred.
 
 Other cases. We may disclose your information also:
-
-to our subsidiaries and affiliates;
-
-to contractors, service providers, and other third parties we use to support our business;
-
-to fulfill the purpose for which you provide it;
-
-for the purpose of including your company’s logo on our website;
-
-for any other purpose disclosed by us when you provide the information;
-
-with your consent in any other cases;
-
-if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others.
+* to our subsidiaries and affiliates;
+* to contractors, service providers, and other third parties we use to support our business;
+* to fulfill the purpose for which you provide it;
+* for the purpose of including your company’s logo on our website;
+* for any other purpose disclosed by us when you provide the information;
+* with your consent in any other cases;
+* if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others.
 
 ## Security of Data
 
@@ -188,14 +168,10 @@ Your Data Protection Rights under the California Privacy Protection Act (CalOPPA
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/
 
 According to CalOPPA we agree to the following:
-
-users can visit our site anonymously;
-
-our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;
-
-users will be notified of any privacy policy changes on our Privacy Policy Page;
-
-users are able to change their personal information by emailing us at help@launchy.dev.
+* users can visit our site anonymously;
+* our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;
+* users will be notified of any privacy policy changes on our Privacy Policy Page;
+* users are able to change their personal information by emailing us at help@launchy.dev.
 
 Our Policy on “Do Not Track” Signals:
 
